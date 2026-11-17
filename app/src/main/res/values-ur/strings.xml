@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حساب کتاب کھاتہ</string>
+    <string name="currency_symbol">روپے</string>
+
+    <string name="nav_home">ہوم</string>
+    <string name="nav_customers">گاہک</string>
+    <string name="nav_settings">سیٹنگز</string>
+
+    <string name="shops">دکانیں</string>
+    <string name="all_shops">تمام دکانیں</string>
+    <string name="manage_shops">دکانوں کا انتظام</string>
+    <string name="add_shop">نئی دکان</string>
+    <string name="edit_shop">دکان میں ترمیم</string>
+    <string name="shop_name">دکان کا نام</string>
+    <string name="owner_name">مالک کا نام</string>
+    <string name="phone">فون نمبر</string>
+    <string name="address">پتہ</string>
+    <string name="opening_balance">ابتدائی بیلنس</string>
+    <string name="notes">کاروباری نوٹس</string>
+    <string name="no_shops">ابھی کوئی دکان نہیں۔ شروع کرنے کے لیے اپنی پہلی دکان شامل کریں۔</string>
+    <string name="remove_shop_title">دکان ہٹائیں؟</string>
+    <string name="remove_shop_msg">دکان ایپ سے چھپ جائے گی۔ اس کا ریکارڈ ڈیٹا بیس میں محفوظ رہے گا، مٹایا نہیں جائے گا۔</string>
+    <string name="continue_btn">آگے بڑھیں</string>
+
+    <string name="save">محفوظ کریں</string>
+    <string name="cancel">منسوخ</string>
+    <string name="delete">حذف کریں</string>
+    <string name="edit">ترمیم</string>
+    <string name="ok">ٹھیک ہے</string>
+    <string name="back">واپس</string>
+    <string name="invalid_amount">درست رقم درج کریں</string>
+    <string name="name_required">نام ضروری ہے</string>
+
+    <string name="customers">گاہک</string>
+    <string name="add_customer">نیا گاہک</string>
+    <string name="edit_customer">گاہک میں ترمیم</string>
+    <string name="customer_name">گاہک کا نام</string>
+    <string name="search_hint">نام یا فون نمبر سے تلاش کریں</string>
+    <string name="no_customers">ابھی کوئی گاہک نہیں</string>
+    <string name="choose_shop_to_add">گاہک شامل کرنے کے لیے کوئی ایک دکان منتخب کریں</string>
+    <string name="remove_customer_title">گاہک ہٹائیں؟</string>
+    <string name="remove_customer_msg">گاہک فہرست سے چھپ جائے گا۔ اس کا پورا لین دین ڈیٹا بیس میں محفوظ رہے گا۔</string>
+    <string name="opening_balance_hint">مثبت = گاہک نے دینے ہیں، منفی = آپ نے گاہک کو دینے ہیں</string>
+
+    <string name="customer_owes">گاہک نے دینے ہیں</string>
+    <string name="you_owe">آپ نے گاہک کو دینے ہیں</string>
+    <string name="settled">حساب برابر</string>
+    <string name="partially_paid">جزوی ادائیگی</string>
+    <string name="give_credit">ادھار دینا</string>
+    <string name="receive_payment">رقم وصول کرنا</string>
+    <string name="amount">رقم</string>
+    <string name="description">تفصیل</string>
+    <string name="reference">حوالہ / نوٹ</string>
+    <string name="statement">کھاتے کا گوشوارہ</string>
+    <string name="share_statement">گوشوارہ شیئر کریں (PDF)</string>
+    <string name="date">تاریخ</string>
+    <string name="credit_given">ادھار</string>
+    <string name="payment">وصولی</string>
+    <string name="balance">بیلنس</string>
+    <string name="previous_balance">پچھلا</string>
+    <string name="new_balance">نیا</string>
+    <string name="cancelled">منسوخ شدہ</string>
+    <string name="cancel_entry">اندراج منسوخ کریں</string>
+    <string name="cancel_entry_msg">اندراج ہسٹری میں منسوخ شدہ کے نشان کے ساتھ رہے گا اور بیلنس دوبارہ حساب ہو جائے گا۔</string>
+    <string name="total_credit">کل ادھار</string>
+    <string name="total_payments">کل وصولی</string>
+    <string name="no_transactions">ابھی کوئی لین دین نہیں</string>
+    <string name="generated_on">تیار کرنے کی تاریخ</string>
+
+    <string name="total_shops">کل دکانیں</string>
+    <string name="today_credit">آج کا ادھار</string>
+    <string name="today_collections">آج کی وصولی</string>
+    <string name="receivables">کل وصولیاں (لینے ہیں)</string>
+    <string name="payables">گاہکوں کو دینے ہیں</string>
+    <string name="recent_transactions">حالیہ لین دین</string>
+    <string name="quick_actions">فوری کام</string>
+
+    <string name="settings_language">زبان</string>
+    <string name="lang_urdu">اردو</string>
+    <string name="lang_english">English (انگریزی)</string>
+    <string name="settings_theme">تھیم</string>
+    <string name="theme_system">سسٹم کے مطابق</string>
+    <string name="theme_light">لائٹ</string>
+    <string name="theme_dark">ڈارک</string>
+    <string name="settings_backup">بیک اپ اور بحالی</string>
+    <string name="backup_create">بیک اپ بنائیں</string>
+    <string name="backup_restore">بیک اپ سے بحال کریں</string>
+    <string name="backup_ok">بیک اپ محفوظ ہو گیا</string>
+    <string name="backup_fail">بیک اپ ناکام ہوا</string>
+    <string name="restore_confirm_title">بیک اپ بحال کریں؟</string>
+    <string name="restore_confirm_msg">موجودہ تمام ڈیٹا بیک اپ سے بدل جائے گا۔ پہلے موجودہ ڈیٹا کی ایک حفاظتی کاپی ایپ کے اندر رکھ لی جاتی ہے۔</string>
+    <string name="restore_invalid">یہ فائل درست یا صحیح بیک اپ نہیں ہے۔ کچھ تبدیل نہیں ہوا۔</string>
+    <string name="restore_done">بحالی مکمل ہو گئی۔ ایپ اب بند ہوگی، براہ کرم دوبارہ کھولیں۔</string>
+    <string name="settings_about">ایپ کے بارے میں</string>
+    <string name="app_version">ورژن</string>
+</resources>
